@@ -18,7 +18,7 @@ a {
 }
 .navbar {
 	background-color: black;
-	width: 50%;
+	width: 300px;
 	margin: 0 auto;
 	text-align: center;
 	font-family: helvetica, sans-serif;
@@ -52,6 +52,7 @@ a {
 h4>a {
 	text-decoration: underline;
 	text-align: center;
+	padding-left: 150px;
 }
 
 footer {
@@ -73,19 +74,17 @@ footer {
 	opacity: 0.85;
 
 }
-
 .jumbo {
-	width: 775px;
-	height: 450px;
-	margin: 0 auto;
+	opacity: 1;
 }
 
 img {
-	margin: 0 auto;
+	margin-left: 200px;
 }
 
 img:hover{
 	content: url('http://i.imgur.com/T3fA6uB.jpg');
-	opacity: 1;
-	margin: 0 auto;
+	margin-left: 200px;
+	
+/*	margin: 0 auto;*/
 }
