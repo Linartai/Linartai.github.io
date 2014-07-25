@@ -1,28 +1,47 @@
+body {
+	background-color: #F6A600;
+	color:	#FAEBD7;;
+}
+
+a {
+	color:	#FAEBD7;
+}
+.container {
+	width: 100%;
+	background-color: #AA8539;	
+}
 .navbar{
 	margin: 0 auto;
 	text-align: right;
 }
 
-.button {
+.jumbotron {
+	
 	margin: 0 auto;
+	background-color: #5E5440;
 }
 
 .jumbotron h1 {
 	text-align: right;
 	padding-bottom: 20px;
+
 }
 
 .jumbotron p {
 	text-align: justify;
 }
 
+.col-md-4 h2 {
+	text-align: center;
+}
 .col-md-4 p {
 	text-align: justify;
 	padding-bottom: 20px;
 }
-
 footer {
+	background-color: #F6A600;
 	margin: 0 auto;
+	text-align: center;
 	padding-top: 40px;
 	width: 85%;
 }
