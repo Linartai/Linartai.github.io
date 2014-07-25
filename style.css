@@ -77,14 +77,15 @@ footer {
 .jumbo {
 	width: 775px;
 	height: 450px;
-	background: url('http://i.imgur.com/rnk4WT8.jpg') no-repeat center center fixed;
 	margin: 0 auto;
 }
 
-.jumbo:hover{
-	width: 775px;
-	height: 450px;
-	background: url('http://i.imgur.com/T3fA6uB.jpg') no-repeat center center fixed;
+img {
+	margin: 0 auto;
+}
+
+img:hover{
+	content: url('http://i.imgur.com/T3fA6uB.jpg');
 	opacity: 1;
 	margin: 0 auto;
 }
