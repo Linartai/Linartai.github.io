@@ -1,5 +1,5 @@
 .navbar{
-	margin:0 auto;
+	margin: 0 auto;
 	text-align: right;
 }
 
@@ -13,7 +13,7 @@
 }
 
 .jumbotron p {
-	text-align: right;
+	text-align: justify;
 }
 
 .col-md-4 p {
@@ -22,6 +22,7 @@
 }
 
 footer {
+	margin: 0 auto;
 	padding-top: 60px;
 	width: 80%;
 }
