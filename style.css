@@ -1,6 +1,6 @@
 
 body {
-  background: url('http://i.imgur.com/5DFT4hD.jpg') no-repeat center center fixed; 
+  background: url('http://i.imgur.com/cHT9q5c.jpg') no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -18,12 +18,11 @@ a {
 }
 .navbar {
 	background-color: black;
-	width: 300px;
+	width: 230px;
 	margin: 0 auto;
 	text-align: center;
 	font-family: helvetica, sans-serif;
-	padding: 0 60px 0 60px;
-	opacity: 0.50;
+	opacity: 0.60;
 
 }
 
@@ -31,7 +30,7 @@ a {
 	background-color: black;
 	width: 90%;
 	margin: 0 auto;
-	opacity: 0.65;
+	opacity: 0.75;
 
 }
 
