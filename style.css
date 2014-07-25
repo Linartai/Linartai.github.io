@@ -1,5 +1,6 @@
 .navbar{
 	margin:0 auto;
+	text-align: right;
 }
 
 .button {
@@ -10,6 +11,14 @@
 	text-align: center;
 }
 
+.jumbotron p {
+	text-align: right;
+}
+
 .col-md-4 p {
 	text-align: justify;
+}
+
+footer {
+	padding-top: 25px
 }
