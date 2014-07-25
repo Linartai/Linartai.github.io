@@ -6,7 +6,6 @@ body {
   -o-background-size: cover;
   background-size: cover;
   color: white;
-  opacity: 0.65;
   font-family: helvetica, sans-serif;
 }
 
@@ -18,34 +17,24 @@ a {
 	width: 100%;
 }
 .navbar {
-	width: 75%;
+	background-color: black;
+	width: 50%;
 	margin: 0 auto;
-	text-align: left;
+	text-align: center;
 	font-family: helvetica, sans-serif;
-/*	padding: 0 60px 0 60px;*/
-}
-.row {
-	width: 90%;
-	margin: 0 auto;
-}
+	padding: 0 60px 0 60px;
+	opacity: 0.50;
 
-.jumbotron {
-	margin: 0 auto;
-	padding-bottom: 100px;
 }
-.jumbotron h1 {
-	text-align: right;
-	padding-bottom: 20px;
-}
-.jumbotron p {
-	text-align: justify;
-}
-
 
 .row {
 	background-color: black;
-	font-family: helvetica, sans-serif;
+	width: 90%;
+	margin: 0 auto;
+	opacity: 0.65;
+
 }
+
 .col-md-4 h2 {
 	text-align: center;
 }
@@ -61,20 +50,8 @@ a {
 }
 
 h4>a {
-	text-decoration:underline;
+	text-decoration: underline;
 	text-align: center;
-	margin: 0 auto;
-}
-#carousel-example-generic {
-	width: 100%;
-	height: auto;
-	margin: 0 auto;
-	padding-bottom: 20px;
-
-}
-
-.carousel-caption {
-	color: black;
 }
 
 footer {
@@ -82,4 +59,32 @@ footer {
 	text-align: center;
 	padding-top: 40px;
 	width: 85%;
+}
+
+.cont{
+	width: 95%;
+	opacity: 1;
+	background-color: black;
+	margin: 0 auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	opacity: 0.85;
+
+}
+
+.jumbo {
+	width: 775px;
+	height: 450px;
+	background: url('http://i.imgur.com/rnk4WT8.jpg') no-repeat center center fixed;
+	margin: 0 auto;
+}
+
+.jumbo:hover{
+	width: 775px;
+	height: 450px;
+	background: url('http://i.imgur.com/T3fA6uB.jpg') no-repeat center center fixed;
+	opacity: 1;
+	margin: 0 auto;
 }
