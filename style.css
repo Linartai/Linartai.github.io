@@ -19,7 +19,7 @@ a {
 	
 	margin: 0 auto;
 	background-color: #783535;
-		padding-bottom: 100px;
+	padding-bottom: 100px;
 }
 
 .jumbotron h1 {
@@ -64,9 +64,4 @@ footer {
 
 .carousel-caption {
 	color: black;
-}
-
-#map_canvas {
-	width: 400px;
-	height: 400px;
 }

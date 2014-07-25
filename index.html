@@ -5,20 +5,6 @@
 	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<link rel="stylesheet" href="style.css">
-	<script src="https://maps.googleapis.com/maps/api/js"></script>
-	<!-- Google Maps Script -->
-	<script> 
-		function initialize() {
-		    var mapCanvas = document.getElementById('map_canvas');
-		    var mapOptions = {
-		      center: new google.maps.LatLng(44.5403, -78.5463),
-		      zoom: 8,
-		      mapTypeId: google.maps.MapTypeId.ROADMAP
-		    }
-		    var map = new google.maps.Map(map_canvas, map_options);
-		}
-		google.maps.event.addDomListener(window, 'load', initialize);
-	</script>
 	<title>Linas ir Monika</title>
 </head>
 <body>
@@ -43,13 +29,6 @@
 		</div>
 	</header>
 	<div class="jumbotron">
-		<!-- <div class="row">
-			<div class="col-md-4"></div>
-			<div class="col-md-8">
-				<h1>Bučkis!</h1>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia cupiditate impedit id ut. Quam, aspernatur, voluptate. Ut magni incidunt excepturi error eum possimus molestias reprehenderit tempora soluta nam, numquam, omnis.</p>
-			</div>
-		</div> -->
 	<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
   		<!-- Indicators -->
   		<ol class="carousel-indicators">
@@ -97,7 +76,7 @@
 			<div class="col-md-4">
 				<h2>Kur?</h2>
 				<p>
-					
+					<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2233.25635846027!2d21.074197599999998!3d55.9622599!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46e52e89a745eac7%3A0xf5163d3c526ffcb7!2zVcW-a2FuYXbEl3MgZ2F0dsSXIDYwLCBQYWxhbmdhIDAwMTkw!5e0!3m2!1slt!2slt!4v1406316169325" width="400" height="300" frameborder="0" style="border:0"></iframe>
 				</p>
 			</div>
 			<div class="col-md-1"></div>
@@ -111,7 +90,6 @@
 		<p>
 		<small>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur quam omnis cum incidunt mollitia, nobis? Iusto, aspernatur a facere accusantium obcaecati suscipit sed non nobis reprehenderit harum consequatur incidunt dolores!</small>
 		</p>
-		<div id="map_canvas"></div>
 	</footer>
 
 	<!-- 	Corousel script -->
