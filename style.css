@@ -1,14 +1,15 @@
-.container {
-	min-height: 100%;
-	height: auto !important;
-	height: 100%;
-	margin: 0 auto -4em;
-}
-
-footer {
-	height: 4em;
+.navbar{
+	margin:0 auto;
 }
 
 .button {
 	margin: 0 auto;
+}
+
+.jumbotron h1 {
+	text-align: center;
+}
+
+.col-md-4 p {
+	text-align: justify;
 }
