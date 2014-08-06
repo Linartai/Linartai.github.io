@@ -1,0 +1,493 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tab",
+				"tableOut"
+			],
+			[
+				"plot",
+				"plot"
+			],
+			[
+				"title",
+				"titlePanel"
+			],
+			[
+				"sle",
+				"selectInput"
+			],
+			[
+				"selec",
+				"selectInput"
+			],
+			[
+				"Ex",
+				"Explorer"
+			],
+			[
+				"ggp",
+				"ggplot2"
+			],
+			[
+				"plotOut",
+				"plotOutput"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"Lo",
+				"Layout"
+			],
+			[
+				"main",
+				"mainPanel"
+			],
+			[
+				"sidebar",
+				"sidebarPanel"
+			],
+			[
+				"side",
+				"Sidebar"
+			],
+			[
+				"shiny",
+				"shinyUI"
+			],
+			[
+				"iris",
+				"iris"
+			],
+			[
+				"rend",
+				"renderDataTable"
+			],
+			[
+				"my",
+				"mytable2"
+			],
+			[
+				"render",
+				"renderDataTable"
+			],
+			[
+				"data",
+				"dataTableOutput"
+			],
+			[
+				"nth",
+				"nthValueInv"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"if",
+				"ifelse"
+			],
+			[
+				"as.nu",
+				"as.numeric"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"Tru",
+				"TRUE"
+			],
+			[
+				"table",
+				"table_data"
+			],
+			[
+				"Date",
+				"DateExpired"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"img",
+				"img-responsive"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3296,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 1229,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Build: Cancel"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"brow",
+				"View In Browser"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"alig",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 460.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Linas/Documents/GitHub/Test/shinyTest.R",
+		"/C/Users/Linas/Documents/GitHub/Test/XML Parser for Geolocation.py",
+		"/C/Users/Linas/Documents/GitHub/Test/Html test.html",
+		"/C/Users/Linas/Documents/GitHub/Linartai.github.io/index.html",
+		"/C/Users/Linas/Documents/GitHub/Linartai.github.io/style.css",
+		"/C/Users/Linas/Documents/GitHub/Linartai.github.io/css/bootstrap.min.css",
+		"/C/Users/Linas/Documents/GitHub/Linartai.github.io/css/bootstrap.css",
+		"/C/Users/Linas/PyCharm/Optimus-Prime/Optimus-Prime-master/Database.txt",
+		"/C/Users/Linas/PyCharm/Optimus-Prime/Optimus-Prime-master/Main.py",
+		"/C/Users/Linas/Downloads/normalize.css",
+		"/C/Users/Linas/Downloads/Microsoft.SkypeApp_kzf8qxf38zg5c!App/nice.txt",
+		"/C/Users/Linas/PyCharm/Optimus-Prime/Optimus-Prime-master/README.md",
+		"/C/Users/Linas/Desktop/Web Dev/Bootstrap/index.html",
+		"/C/Users/Linas/Desktop/Web Dev/Bootstrap/css/bootstrap-theme.css",
+		"/C/Users/Linas/Desktop/Web Dev/Bootstrap/css/bootstrap-theme.css.map",
+		"/C/Users/Linas/Desktop/Web Dev/Bootstrap/css/bootstrap-theme.min.css",
+		"/C/Users/Linas/Desktop/Web Dev/Bootstrap/css/bootstrap.css",
+		"/C/Users/Linas/Desktop/Web Dev/Bootstrap/css/bootstrap.css.map",
+		"/C/Users/Linas/Desktop/Web Dev/Bootstrap/css/bootstrap.min.css",
+		"/C/Users/Linas/Desktop/Web Dev/Bootstrap/css/custom.css",
+		"/C/Users/Linas/Desktop/Web Dev/Bootstrap/fonts/glyphicons-halflings-regular.svg",
+		"/C/Users/Linas/Desktop/Web Dev/Bootstrap/fonts/glyphicons-halflings-regular.woff",
+		"/C/Users/Linas/Desktop/Web Dev/Bootstrap/js/bootstrap.js",
+		"/C/Users/Linas/Desktop/Web Dev/Bootstrap/js/bootstrap.min.js",
+		"/C/Users/Linas/Desktop/Web Dev/Bootstrap/js/respond.min.js",
+		"/C/Users/Linas/Videos/Courses/TutsPlus - CSS3 Essentials/Info.txt",
+		"/D/Monikos dokumentai/bendra lt programa.txt",
+		"/C/Users/Linas/Documents/GitHub/Optimus-Prime/Main.py",
+		"/C/Users/Linas/Desktop/Web Dev/Misc. code snipets.py",
+		"/C/Users/Linas/PyCharm/Optimus-Prime/Optimus-Prime-master/.idea/misc.xml",
+		"/C/Users/Linas/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/C/Users/Linas/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Linas/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Linas/AppData/Local/Temp/Rar$DIa0.212/additional head code.txt",
+		"/C/Users/Linas/AppData/Local/Temp/Rar$EXa0.256/Ex_Files_UaR_Bootstp3/Exercise Files/Chapter 1/01_05/index.html",
+		"/C/Users/Linas/Videos/Courses/Lynda - Up and Running with Bootstrap 3/Exercise/additional head code.txt",
+		"/C/Users/Linas/Desktop/normalize.css",
+		"/C/Users/Linas/Documents/GitHub/Optimus-Prime/README.md",
+		"/C/Users/Linas/Desktop/a.html",
+		"/C/Users/Linas/Desktop/Web Dev/Dash Project 3.html",
+		"/C/Users/Linas/Desktop/Web Dev/Dash Project 4.html",
+		"/C/Users/Linas/Desktop/Web Dev/Dash Responsive Blog Theme.html",
+		"/C/Users/Linas/Desktop/Web Dev/Codecademy Web Begginer.html",
+		"/C/Users/Linas/Desktop/Web Dev/Codecademy Web Begginer.css",
+		"/C/Users/Linas/Desktop/Web Dev/Dash Personal Website.html",
+		"/C/Users/Linas/Desktop/Web Dev/Codecademy Web Begginer",
+		"/C/Users/Linas/Desktop/Codecademy Web Begginer.html",
+		"/C/Users/Linas/Desktop/Codecademy Web Begginer"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"function",
+			"shinyServer",
+			"shinyUI",
+			"dataTableOut",
+			"dataTable",
+			"plotOut",
+			"img",
+			"article",
+			">\n",
+			"browser",
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3296,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3296,
+								3296
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "style.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1229,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "LinartaiSublime.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 154.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
