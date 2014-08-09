@@ -21,7 +21,7 @@ a {
 	width: 230px;
 	margin: 0 auto;
 	text-align: center;
-	font-family: helvetica, sans-serif;
+/* 	font-family: helvetica, sans-serif; */
 	opacity: 0.60;
 
 }
@@ -30,7 +30,7 @@ a {
 	background-color: black;
 	width: 90%;
 	margin: 0 auto;
-	opacity: 0.75;
+	opacity: 0.80;
 
 }
 
@@ -62,7 +62,7 @@ footer {
 }
 
 .cont{
-	width: 95%;
+	width: 90%;
 	opacity: 1;
 	background-color: black;
 	margin: 0 auto;
@@ -71,19 +71,24 @@ footer {
 	padding-bottom: 10px;
 	padding-top: 10px;
 	opacity: 0.85;
+	text-align: center;
 
-}
-.jumbo {
-	opacity: 1;
 }
 
 img {
-	margin-left: 200px;
+	margin-left: auto;
 }
 
 img:hover{
 	content: url('http://i.imgur.com/T3fA6uB.jpg');
-	margin-left: 200px;
+	margin-left: auto;
 	
 /*	margin: 0 auto;*/
+}
+
+.googleForms{
+	text-align: center;
+}
+iframe {
+	margin: auto;
 }
