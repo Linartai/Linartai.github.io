@@ -13,25 +13,22 @@ a {
 	color: white;
 }
 
-.container {
-	width: 100%;
-}
+
 .navbar {
 	background-color: black;
 	width: 230px;
 	margin: 0 auto;
 	text-align: center;
-/* 	font-family: helvetica, sans-serif; */
 	opacity: 0.60;
 
 }
 
 .row {
 	background-color: black;
-	width: 90%;
-	margin: 0 auto;
+	/* width: 90%; */
+	margin: auto;
 	opacity: 0.80;
-
+	border-radius: 20px;
 }
 
 .col-md-4 h2 {
@@ -63,27 +60,32 @@ footer {
 
 .cont{
 	width: 90%;
-	opacity: 1;
 	background-color: black;
-	margin: 0 auto;
-	margin-top: 20px;
-	margin-bottom: 20px;
-	padding-bottom: 10px;
-	padding-top: 10px;
 	opacity: 0.85;
 	text-align: center;
-
+	border-radius: 20px;
 }
 
-img {
+.ourImage{
+	background: url("http://i.imgur.com/rnk4WT8.jpg") no-repeat;
+	width: 750px;
+	height: 400px; 
+	margin: auto;
+	background-size:100% auto;
+	border-radius: 20px;
+}
+.ourImage:hover{
+	background: url("http://i.imgur.com/T3fA6uB.jpg") no-repeat;
+}
+/* img {
 	margin-left: auto;
-}
+} */
 
-img:hover{
+/* img:hover{
 	content: url('http://i.imgur.com/T3fA6uB.jpg');
 	margin-left: auto;
 	
-/*	margin: 0 auto;*/
+ma */rgin: 0 auto;*/
 }
 
 .googleForms{
