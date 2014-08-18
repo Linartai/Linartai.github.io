@@ -1,4 +1,6 @@
-
+html{
+	height: 100%;
+}
 body {
   background: url('http://i.imgur.com/cHT9q5c.jpg') no-repeat center center fixed; 
   -webkit-background-size: cover;
@@ -8,6 +10,10 @@ body {
   color: white;
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
   font-weight: 300;
+  height: 100%;
+  margin: 0 auto;
+  font-size: medium;
+
 }
 
 a {
@@ -19,9 +25,9 @@ a {
 	background-color: black;
 	border-color: black;
 	border-radius: 40px;
-	left: 20%;
-	right: 20%;
-
+	/*left: 20%;*/
+	/*right: 100%;*/
+	opacity: 0.8;
 
 }
 .navbar-default .navbar-nav>li>a{
@@ -30,24 +36,19 @@ a {
 .navbar-default .navbar-brand{
 	color: #C5C1C1;
 }
+
 .container {
 	background-color: black;
 	opacity: 0.80;
 	border-radius: 20px;
+	height: 100%;
 }
 
-.kada  h2 {
-	text-align: center;
-}
-.kur h2 {
+.infoEl  h2 {
 	text-align: center;
 }
 
-h4>a {
-	text-decoration: underline;
-	text-align: center;
-	padding-left: 150px;
-}
+
 
 footer {
 	margin: 0 auto;
@@ -56,18 +57,17 @@ footer {
 }
 
 .cont{
-	width: 90%;
+	width: 100%;
 	background-color: black;
 	opacity: 0.85;
 	text-align: center;
 	border-radius: 10px;
 	padding: 20px;
-	/*margin-top: 20px; */
+
 }
 
 .ourImage{
 	background: url("http://i.imgur.com/rnk4WT8.jpg") no-repeat;
-	/*width: 750px;*/
 	height: 400px; 
 	margin: auto;
 	background-size:100% auto;
@@ -76,6 +76,10 @@ footer {
 }
 .ourImage:hover{
 	background: url("http://i.imgur.com/T3fA6uB.jpg") no-repeat;
+	height: 400px; 
+	margin: auto;
+	background-size:100% auto;
+	border-radius: 20px;
 }
 
 
@@ -86,6 +90,7 @@ footer {
 iframe {
 	margin: auto;
 	padding-bottom: 20px;
+	padding-top: 20px;
 }
 
 .information{
@@ -93,16 +98,46 @@ iframe {
 }
 
 .intro-section{
-	height: 100%;
+	/*height: 80%;*/
 	padding-top: 100px; 	
 }
 
 .about-section{
-	height: 100%;
-	padding-top: 100px; 	
+	/*height: 80%;*/
+	padding-top: 150px; 	
 }
 
 .services-section{
-	height: 100%;
-	padding-top: 100px; 	
+/*	height: 80%;*/
+	padding-top: 150px; 	
+}
+
+.contacts {
+	margin:0 auto;
+	position: absolute;
+    top: 200%;
+}
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.center{
+	margin-left: 10%;
+margin-right: 10%;
+}
+
+.contText{
+	text-align: left;
+}
+ul{
+	list-style-type:none;
+	margin-left: -20px;
+}
+li{
+	padding-bottom: 10px;
+}
+
+h3{
+	text-align: center;
 }
