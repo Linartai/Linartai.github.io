@@ -203,8 +203,15 @@ img{
 
 blockquote{
 	text-align: justify;
+	font-size: 14px;
 }
 
-.col-sm-4 ul{
+ul{
 	list-style-type: none;
+	padding-left: 0px;
+}
+
+#bePadding #bePadding #bePadding{
+	padding-left: 0px;
+	text-indent: 0px;
 }
